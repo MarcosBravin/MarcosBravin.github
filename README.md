@@ -6,11 +6,11 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e inovação! Desde o desenvolvimento web e mobile até a administração de servidores Linux, meu foco é transformar ideias em soluções funcionais, escaláveis e seguras.  
+Sou apaixonado por tecnologia e inovação! Desde desenvolvimento web e mobile até administração de servidores Linux, meu foco é transformar ideias em soluções **funcionais, escaláveis e seguras**.
 
-Fundador da **Bravin Tech**, onde aplico meus conhecimentos para criar sistemas robustos, automatizar processos e otimizar infraestruturas de TI.  
+Fundador da **Bravin Tech**, aplicando meus conhecimentos para criar sistemas robustos, automatizar processos e otimizar infraestruturas de TI.
 
-Sempre em busca de novos desafios, aprendizado contínuo e, claro, boas conversas sobre tecnologia! 😄  
+Sempre em busca de novos desafios, aprendizado contínuo e, claro, boas conversas sobre tecnologia! 😄
 
 ---
 
@@ -30,16 +30,17 @@ Sempre em busca de novos desafios, aprendizado contínuo e, claro, boas conversa
 
 ## 🌍 Onde me encontrar
 
-- 🌐 **Site**: [bravintech.com.br](https://www.bravintech.com.br)
-- 💼 **LinkedIn**: [Marcos Vinicius Bravin dos Santos](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)
-- 📫 **Email**: marcosmv022@gmail.com
+- 🌐 [bravintech.com.br](https://www.bravintech.com.br)
+- 💼 [LinkedIn](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)
+- 📫 [marcosmv022@gmail.com](mailto:marcosmv022@gmail.com)
 
 ---
 
 ## 🚩 Projeto em destaque
 
-### 🔒 Bloqueador de Site para Instituições de Educação  
-Ferramenta desenvolvida para auxiliar escolas e universidades no bloqueio eficiente de sites inapropriados, promovendo um ambiente digital mais seguro e focado no aprendizado.
+### 🔒 Bloqueador de Site para Instituições de Educação
+
+Ferramenta desenvolvida para ajudar escolas e universidades a bloquear sites inapropriados, promovendo um ambiente digital mais seguro e focado no aprendizado.
 
 [🔗 Ver no GitHub](https://github.com/MarcosBravin)
 
@@ -48,9 +49,9 @@ Ferramenta desenvolvida para auxiliar escolas e universidades no bloqueio eficie
 ## ✨ Curiosidades
 
 - 🚀 Fundador da minha própria empresa de TI.
-- 🔐 Fã de segurança da informação e automação de processos.
+- 🔐 Fã de segurança da informação e automação.
 - 🐧 Usuário assíduo de Linux e open source.
-- 💡 Sempre buscando aprender novas tecnologias!
+- 💡 Sempre aprendendo novas tecnologias!
 
 ---
 
@@ -61,8 +62,8 @@ Ferramenta desenvolvida para auxiliar escolas e universidades no bloqueio eficie
 
 ---
 
-> _“A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”_  
+> _“A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”_
 
 ---
 
-⭐ **Se gostou dos meus projetos, deixe uma estrela!**
+⭐ Se gostou, deixe uma estrela! ✨
