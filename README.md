@@ -1,127 +1,99 @@
-<!-- AVATAR + NOME -->
-<h1 align="center">Marcos Vinicius Bravin dos Santos</h1>
+<h1 align="center">👋 Olá, eu sou Marcos Vinicius Bravin dos Santos!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> | <b>Especialista em Infraestrutura</b> | <b>CEO na Bravin Tech</b>  
-  <br>
-  Transformando ideias em soluções digitais robustas 🚀
+  💻 <b>Desenvolvedor Full Stack</b> | 🛠️ <b>Especialista em Infraestrutura de TI</b> | 🚀 <b>Empreendedor na Bravin Tech</b>
 </p>
+
+<hr/>
+
+## 🚀 Sobre mim
+
+Sou um entusiasta da tecnologia, atuando no desenvolvimento **Web** e **Mobile**, além de ser especialista em **infraestrutura e segurança de servidores Linux**.  
+Fundador da **Bravin Tech**, empresa dedicada a oferecer soluções inovadoras, automação de processos e sistemas robustos para negócios de diversos segmentos.
+
+Sempre em busca de novos desafios, aprendizado contínuo e evolução profissional!  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcosBravin&style=flat-square&color=blue" alt="Profile views" /> 
-  <img src="https://img.shields.io/github/followers/MarcosBravin?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 Quem sou eu?
+## 🌟 Destaques da Carreira
 
-Sou apaixonado por tecnologia e inovação, com foco em desenvolvimento Full Stack, segurança da informação e infraestrutura de servidores Linux.  
-Atualmente lidero a **Bravin Tech**, oferecendo soluções inteligentes para empresas que buscam qualidade, segurança e performance.  
-
-🔭 **Atualmente trabalhando em:**  
-- Plataforma de ponto digital inteligente  
-- Sistema de monitoramento de hardware em tempo real  
-
-🌱 **Aprendendo atualmente:**  
-- Machine Learning e Inteligência Artificial  
-- Arquitetura de sistemas escaláveis  
+✅ Fundador da **Bravin Tech**  
+✅ Desenvolvimento de soluções de **automação** e **segurança de TI**  
+✅ Experiência com **administração de servidores Linux**  
+✅ Expertise em **desenvolvimento de sistemas completos**  
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🚩 Projetos em Destaque
 
-### 💻 Linguagens e Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Ferramentas e Tecnologias
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔒 Bloqueador de Sites para Instituições  
+Ferramenta criada para escolas e universidades bloquearem sites inapropriados, promovendo ambientes digitais mais seguros e focados no aprendizado.  
+👉 [**Ver no GitHub**](https://github.com/MarcosBravin)
 
 ---
 
-## 🗓️ Timeline de Carreira
-
-- 🚀 **2022**: Fundação da **Bravin Tech**  
-- 💻 **2023**: Desenvolvimento de sistemas de ponto digital e monitoramento de hardware  
-- 📈 **2024**: Ampliação da Bravin Tech e novas parcerias  
-- 🧠 **2025**: Foco em IA e automação inteligente  
+### 📊 Sistema de Monitoramento de Hardware  
+Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal para ambientes corporativos e industriais.  
+👉 [**Em desenvolvimento**](#)
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🔒 **Bloqueador de Sites Institucional**  
-✅ Solução de segurança para escolas e universidades  
-🔗 [Ver no GitHub](https://github.com/MarcosBravin/projeto-bloqueador)
-
-### 📊 **Sistema de Monitoramento de Hardware**  
-✅ Diagnóstico de falhas em tempo real  
-🔗 [Em desenvolvimento](#)
-
-### ⏰ **Ponto Digital Mobile**  
-✅ Aplicativo Android com notificações automáticas  
-🔗 [Ver repositório](https://github.com/MarcosBravin/ponto-digital)
+### ⏰ Ponto Digital Mobile  
+Aplicativo Android para registro eficiente de ponto, com notificações e integração em tempo real com sistemas corporativos.  
+👉 [**Ver repositório**](https://github.com/MarcosBravin)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBravin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBravin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Snake - Contribuições Recentes
+## 🌍 Onde me encontrar
 
-<p align="center">
-  <img src="https://github.com/MarcosBravin/MarcosBravin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📫 Como me encontrar
-
-<p align="center">
-  <a href="https://www.bravintech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site-BRAVINTECH.COM.BR-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  
-  <a href="https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:marcosmv022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marcosmv022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 🌐 **Site**: [www.bravintech.com.br](https://www.bravintech.com.br)  
+- 💼 **LinkedIn**: [Marcos Vinicius Bravin dos Santos](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)  
+- 📫 **Email**: marcosmv022@gmail.com  
 
 ---
 
-## 💡 Citação Favorita
+## ✨ Curiosidades
 
-> _"A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença."_  
+- 🚀 Fundador da minha própria empresa de TI  
+- 🔐 Apaixonado por segurança da informação  
+- 🐧 Usuário assíduo de Linux e software open source  
+- 💡 Sempre em busca de novas tecnologias e tendências  
 
 ---
 
-## 🙏 Agradecimento
+## 💬 Citação Favorita
 
-<p align="center">
-  Obrigado por visitar meu perfil!  
-  Se gostou, não esqueça de deixar uma ⭐ nos projetos.  
-  <br><br>
-  <i>Feito com ❤️ por Marcos Vinicius</i>
-</p>
+> _“A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”_
+
+---
+
+## ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!  
+**Obrigado pela visita!**
+
+---
+
