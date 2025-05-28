@@ -1,106 +1,115 @@
-<!-- HEADER COM AVATAR E INTRO -->
+<!-- AVATAR + NOME -->
 <p align="center">
-  <img width="150" src="https://avatars.githubusercontent.com/u/SeuIDAqui?v=4" alt="Avatar do Marcos" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/152446896?v=4" width="150" style="border-radius:50%;">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Marcos Vinicius Bravin dos Santos</h1>
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> | <strong>Especialista em Infraestrutura de TI</strong> | <strong>Empreendedor @Bravin Tech</strong>
+  Desenvolvedor Full Stack | Especialista em Infraestrutura | Empreendedor @BravinTech
 </p>
-
----
-
-<!-- SOBRE MIM COM BOX -->
-<div style="background:#f5f5f5; padding:20px; border-radius:8px; margin-bottom: 20px;">
-  <h2>🚀 Sobre Mim</h2>
-  <p>
-    Sou apaixonado por tecnologia e inovação! Transformo ideias em soluções robustas, escaláveis e seguras.
-    Fundador da <strong>Bravin Tech</strong>, onde aplico meus conhecimentos em desenvolvimento e infraestrutura.
-    Sempre em busca de novos desafios e aprendizado contínuo.
-  </p>
-</div>
-
----
-
-<!-- TECNOLOGIAS EM COLUNAS -->
-<h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=MarcosBravin&style=flat-square&color=blue" alt="Profile views" /> 
+  <img src="https://img.shields.io/github/followers/MarcosBravin?label=Followers&style=social" />
 </p>
 
 ---
 
-<!-- CONTATOS COM BOTÕES -->
-<h2>🌍 Onde me encontrar</h2>
+## 🚀 Sobre Mim
+
+Sou apaixonado por tecnologia, inovação e empreendedorismo!  
+Atualmente lidero a **Bravin Tech**, onde oferecemos soluções inteligentes e robustas para empresas.  
+Adoro criar sistemas completos, que vão do backend à infraestrutura, sempre prezando por segurança e performance.
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguagens:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**Frameworks & Ferramentas:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+**Outros:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
+
+## 🚩 Projetos em Destaque
+
+### 🔒 Bloqueador de Sites para Instituições Educacionais  
+✅ Ferramenta eficiente de segurança para escolas e universidades.  
+🔗 [Ver projeto no GitHub](https://github.com/MarcosBravin/projeto-bloqueador)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBravin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 GitHub Snake (Commits Recentes)
+
+<p align="center">
+  <img src="https://github.com/MarcosBravin/MarcosBravin/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+
+## 🌐 Onde Me Encontrar
+
 <p align="center">
   <a href="https://www.bravintech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-bravintech.com.br-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-bravintech.com.br-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
+  
   <a href="https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:marcosmv022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-marcosmv022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-marcosmv022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-<!-- PROJETO EM DESTAQUE -->
-<h2>🚩 Projeto em destaque</h2>
+## 🎯 Curiosidades
 
-<div style="background:#e3f2fd; padding:15px; border-radius:8px;">
-  <h3>🔒 Bloqueador de Site para Instituições de Educação</h3>
-  <p>
-    Ferramenta desenvolvida para auxiliar escolas e universidades no bloqueio eficiente de sites inapropriados, promovendo um ambiente digital mais seguro e focado no aprendizado.
-  </p>
-  <p>
-    <a href="https://github.com/MarcosBravin" target="_blank" style="text-decoration:none; background:#1976d2; color:white; padding:10px 15px; border-radius:5px;">Ver no GitHub</a>
-  </p>
-</div>
+- 🚀 Fundador da própria empresa aos 20 anos  
+- 🐧 Apaixonado por Linux e software livre  
+- 🔐 Foco em segurança e automação de sistemas  
+- 🤖 Entusiasta de inteligência artificial  
 
 ---
 
-<!-- CURIOSIDADES -->
-<h2>✨ Curiosidades</h2>
+## 💡 Citação Favorita
 
-<ul>
-  <li>🚀 Fundador da minha própria empresa de TI.</li>
-  <li>🔐 Fã de segurança da informação e automação.</li>
-  <li>🐧 Usuário assíduo de Linux e open source.</li>
-  <li>💡 Sempre buscando aprender novas tecnologias!</li>
-</ul>
+> “A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”  
 
 ---
 
-<!-- GITHUB STATS COM TEMA ESCURO -->
-<h2>📊 GitHub Stats</h2>
+## 🙏 Obrigado!
+
+Se gostou, ⭐ marque este repositório!  
+Conecte-se comigo e bora conversar sobre tecnologia! 🚀
+
+---
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBravin&layout=compact&theme=dark" />
-</p>
-
----
-
-<!-- CITACAO -->
-<blockquote style="font-style:italic; color:#555; border-left:4px solid #1976d2; padding-left:15px;">
-  “A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”
-</blockquote>
-
----
-
-<p align="center" style="font-size:16px;">
-  ⭐ Se gostou, deixe uma estrela! ✨
+  Feito com ❤️ por <strong>Marcos Vinicius</strong>
 </p>
