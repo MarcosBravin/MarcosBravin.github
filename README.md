@@ -44,7 +44,7 @@ Sempre em busca de novos desafios, aprendizado contínuo e evolução profission
 
 ### 🔒 Bloqueador de Sites para Instituições  
 Ferramenta criada para escolas e universidades bloquearem sites inapropriados, promovendo ambientes digitais mais seguros e focados no aprendizado.  
-👉 [**Ver no GitHub**](https://github.com/MarcosBravin)
+👉 [**Ver no GitHub**](https://github.com/MarcosBravinSite/Bloker)
 
 ---
 
