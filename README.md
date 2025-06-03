@@ -56,7 +56,7 @@ Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal 
 
 ### ⏰ Ponto Digital Mobile  
 Aplicativo Android para registro eficiente de ponto, com notificações e integração em tempo real com sistemas corporativos.  
-👉 [**Ver repositório**](https://github.com/MarcosBravin)
+👉 [**Ver repositório**](https://github.com/MarcosBravin/PontoDigital)
 
 ---
 
