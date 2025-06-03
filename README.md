@@ -44,7 +44,7 @@ Sempre em busca de novos desafios, aprendizado contínuo e evolução profission
 
 ### 🔒 Bloqueador de Sites para Instituições  
 Ferramenta criada para escolas e universidades bloquearem sites inapropriados, promovendo ambientes digitais mais seguros e focados no aprendizado.  
-👉 [**Ver no GitHub**](https://github.com/MarcosBravin/SiteBloker)
+👉 [**Em desenvolvimento**](https://github.com/MarcosBravin/SiteBloker)
 
 ---
 
@@ -56,7 +56,7 @@ Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal 
 
 ### ⏰ Ponto Digital Mobile  
 Aplicativo Android para registro eficiente de ponto, com notificações e integração em tempo real com sistemas corporativos.  
-👉 [**Ver repositório**](https://github.com/MarcosBravin/PontoDigital)
+👉 [**Em desenvolvimento**](https://github.com/MarcosBravin/PontoDigital)
 
 ---
 
